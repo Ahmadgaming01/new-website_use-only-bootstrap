@@ -1,0 +1,84 @@
+.card-title{
+    color: aliceblue;
+}
+.text-success{
+    color: #00A354;
+}
+.img-schadow{
+    box-shadow: -webkit-box-shadow: 9px 7px 10px -1px rgba(0,0,0,0.76);
+    -moz-box-shadow: 9px 7px 10px -1px rgba(0,0,0,0.76);
+    box-shadow: 9px 7px 10px -1px rgba(0,0,0,0.76);;
+}
+.card :hover{
+    transform: calc(1.5) ;
+}
+.p-border{
+    border-bottom: solid 1px #00A354;
+    margin-bottom: 20px;
+}
+.link-sty{
+    text-decoration: black;
+    font-weight: 700;
+}
+
+
+
+
+/* .top-nav{
+    float:right;
+}
+.text-p{border-bottom: solid #00A354;
+    border-top: solid #00A354;
+    }
+
+.b-class{
+    border-radius: 4px;
+    background-color: #00A354;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font: bold;
+    
+    padding: 10px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .b-class span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .b-class span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .b-class:hover span {
+    padding-right: 25px;
+  }
+  
+  .b-class:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+  .akt-h3{
+    color: #00A354;
+  }
+  .akk-bor{
+    border-bottom: solid #00A354;
+  }
+  .MV{
+    border-bottom: solid #00A354  ;
+    margin-bottom: 10px;
+  } */
+
