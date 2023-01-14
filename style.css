@@ -34,6 +34,35 @@
     color: rgb(255, 255, 255);
 
 }
+.link-style{
+  color: black;
+  text-decoration: black;
+  font-weight: 500;
+}
+.col3-link{
+  color: black;
+  text-decoration: black;
+  font-weight: 700;
+}
+.p-line{
+  border-bottom: 2px black solid;
+  padding-top: 70px;
+
+}
+.bg-color{
+  background-color: #ffb87d;
+}
+.card-text{
+  text-decoration: black;
+  font-weight:700;
+  color: black;
+}
+.fotter{
+  background-color: #EAEEE8 ;
+}
+.col3-margin{
+  margin-top: 20px;
+}
 
 
 
