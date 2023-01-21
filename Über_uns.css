@@ -1,3 +1,24 @@
+.background-h1{
+   background-color: rgb(52,142,21);
+background: linear-gradient(276deg, rgba(52,142,21,1) 7%, rgba(137,185,141,1) 100%, rgba(48,162,18,1) 100%);
+}
+
+
+.Über-uns{
+    animation-name: Über;
+    animation-duration: 2s;
+}
+@keyframes Über {
+    0%{
+        transform: translateX(100%);
+    }
+    100%{ 
+        transform: translateX(0);
+    }
+}
+
+
+
 .link-style{
     color: black;
     text-decoration: black;
@@ -24,3 +45,18 @@
 .fotter{
     background-color: #EAEEE8 ;
 }
+.img-schadow{
+    box-shadow: -webkit-box-shadow: 9px 7px 10px -1px rgba(0,0,0,0.76);
+    -moz-box-shadow: 9px 7px 10px -1px rgba(0,0,0,0.76);
+    box-shadow: 9px 7px 10px -1px rgba(0,0,0,0.76);;
+    
+}
+.img-schadow:hover{
+    /* transform: translateY(-10px) ; */
+  transform: scale(1.1);
+  }
+  p .Email{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+  }
