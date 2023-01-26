@@ -46,7 +46,10 @@ background: linear-gradient(276deg, rgba(52,142,21,1) 7%, rgba(137,185,141,1) 10
     background-color: #EAEEE8 ;
 }
 .img-schadow{
-
+    box-shadow: -webkit-box-shadow: 9px 7px 10px -1px rgba(0,0,0,0.76);
+    -moz-box-shadow: 9px 7px 10px -1px rgba(0,0,0,0.76);
+    box-shadow: 9px 7px 10px -1px rgba(0,0,0,0.76);;
+    
 }
 .img-schadow:hover{
     /* transform: translateY(-10px) ; */
