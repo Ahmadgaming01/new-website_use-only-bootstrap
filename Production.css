@@ -1,0 +1,28 @@
+.Production-bgcoler{
+    background-color: background-color: rgb(52,142,21);
+    background: linear-gradient(276deg, rgba(52,142,21,1) 7%, rgba(137,185,141,1) 100%, rgba(48,162,18,1) 100%);;
+}
+
+.Production-ani{
+    animation-name: Production;
+    animation-duration: 2s;
+    color: aliceblue;
+}
+@keyframes Production {
+    0%{
+        transform: translateX(100%);
+    }
+    100%{ 
+        transform: translateX(0);
+    }
+}
+.production-link-right{
+    text-decoration: none;
+    color: green;
+    
+
+}
+.production-link-right:hover{
+    border-bottom: 2px solid green;
+    -webkit-animation-delay: 2s;
+}
