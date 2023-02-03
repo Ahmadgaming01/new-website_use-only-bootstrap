@@ -26,3 +26,11 @@
     border-bottom: 2px solid green;
     -webkit-animation-delay: 2s;
 }
+.Email-link{
+    text-decoration: none;
+    color: black;
+
+}
+.Email-link:hover{
+    border-bottom: 1px solid green;
+}
