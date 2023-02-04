@@ -34,3 +34,13 @@
 .Email-link:hover{
     border-bottom: 1px solid green;
 }
+.icon-stort{
+    
+    color: black;
+}
+.icon-link{
+    text-decoration: none;
+}
+.icon-stort:hover{
+    border-bottom: green 1px solid ;
+}
